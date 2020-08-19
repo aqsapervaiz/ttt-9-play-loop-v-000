@@ -39,4 +39,5 @@ end
 
 def play(board)
   i = 1 
-  while i >=
+  while i >= 9 
+  
